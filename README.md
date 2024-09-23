@@ -8,3 +8,5 @@ Set up github directory structure following RamiKrispin:
 https://github.com/RamiKrispin/shinylive to display shinylive app on https://elaineforbes.github.io/shiny/
 
 since upgrade to Ubuntu 24.04 there is an error relating to python modules
+
+amended ridgeplot to 0.1.25 because ridgeplot 0.1.26 no longer supports statsmodels 0.14.2
